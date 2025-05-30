@@ -98,7 +98,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Credits 👏
 
-Developed by **Nauman Ali Murad (2022479)** as part of the semester project for Design and Analysis of Algorithms course at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology.
+Developed by **Nauman Ali Murad (2022479)**,**Hamza Zaidi (2022379)**,**M.Adeel (2022331)** and **Hassan Rais (2022212)** as part of their semester project for Design and Analysis of Algorithms course at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology.
 
 ## Acknowledgments 🙏
 
